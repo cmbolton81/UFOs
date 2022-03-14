@@ -11,7 +11,7 @@ You type the info you would like to find and it will automaticly search for it f
 ## Summary
 ### Drawback
 The one downfall about how the filter is set up it is case sensetive. That means you have to put it in exactly like the person that put it in does.
-![filternocap](filternocaps)
+![filternocap](filternocaps.png)
 ### Recommendations
 The first recommondation we would put in would be to be able to search by a range of date and not just one date. This would give us more helpfull results.
 The second recommondation we would do is make it so it did not matter how you typed the word in it would still pull the results that you wanted to get.
